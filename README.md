@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ntokozo Luthuli
-- 👀 I’m interested in Data Engineering, web development 
+- 👀 I’m interested in Data Engineering, web development (Django and more to come)
 - 🌱 I’m currently learning Vue Js and Typescript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Engineering projects and Web Development Projects
 - 📫 How to reach me ...
 
 <!---
