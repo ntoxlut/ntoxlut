@@ -35,10 +35,10 @@ Here are some technologies I love working with:
               ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
               ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
               ![Snowflake](https://img.shields.io/badge/Snowflake-%23FFFAFA.svg?style=for-the-badge&logo=snowflake&logoColor=blue)
-              ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+              ![Apache Airflow](https://camo.githubusercontent.com/47bdcbb710332724072c75913b37203a44c0b6b299fcbd16b9b5b79489a5c76b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417061636865253230416972666c6f772d3031374345453f7374796c653d666f722d7468652d6261646765266c6f676f3d417061636865253230416972666c6f77266c6f676f436f6c6f723d7768697465)
               ![Superset](https://img.shields.io/badge/Apache%20Superset-%230078D4.svg?style=for-the-badge&logo=apache-superset&logoColor=white)
               ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-              ![SQL Server](https://img.shields.io/badge/SQL%20Server-%234B5C6B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+             ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 
