@@ -45,9 +45,12 @@ Here are some technologies I love working with:
 ---
 
 ## 🌐 Connect With Me!
-- 📫 **Email:** [ntokozomshibe@gmail.com](mailto:ntokozomshibe@gmail.com)
-- 💼 **LinkedIn:** [Ntokozo Luth](https://linkedin.com/in/ntokozo-luthuli-4935b064)
+- ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)(mailto:ntokozomshibe@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://linkedin.com/in/ntokozo-luthuli-4935b064))
+- ![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)
 - 🌟 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+
+- 
 
 ---
 
