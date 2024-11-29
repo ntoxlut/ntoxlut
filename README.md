@@ -7,6 +7,7 @@
 - 🎯 My roadmap includes setting up and deploying all the applications I build on AWS, Azure, and GCP.
 - 💡 Passionate about solving complex problems, data engineering, Web development, and open-source contributions.
 - ✨ Fun fact: I enjoy hiking and solving challenging puzzles!
+- Besides the usual, I would like to learn technical writting.
 
 ---
 
